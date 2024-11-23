@@ -19,6 +19,6 @@ AutoCAD, SOLIDWORKS, and Autodesk Civil3D and have experience with various types
 
 ## Let's Connect!
 
-Here is my LinkedIn profile: [www.linkedin.com/in/karwinns10](Your LinkedIn Profile Link)
+Here is my [LinkedIn](www.linkedin.com/in/karwinns10).
 
 Feel free to explore my repositories and don't hesitate to reach out.
